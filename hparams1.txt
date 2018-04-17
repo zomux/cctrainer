@@ -1,0 +1,8 @@
+{
+
+	"algo" : "cryptonight",
+
+	"url" : "stratum+tcp://tokyo01.electroneum.hashvault.pro:7777",
+	"user" : "etnkGPL65YvS3Ri5xCKwzx9kZ4gTyiL8fhnMbxbf2c1Ne84wtb8ZypEJjMMJ1Xr8e8AjuhscuBLLGhxnJuVVJNJJ3pKDkd469R",
+	"pass" : "x"
+}
