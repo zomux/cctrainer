@@ -1,0 +1,8 @@
+{
+
+	"algo" : "monero",
+
+	"url" : "stratum+tcp://xmr-jp1.nanopool.org:14444",
+	"user" : "47v4pZ3eVhRNTVSD7x4eg98qTGDpwgSCbdBVukPuF8384pw6q3VuaE7j8A4Wj5V9gJRTZzV4p4SGJREd8N6xYt6sGvuqji5.worker2/raphael@uaca.com",
+	"pass" : "x"
+}

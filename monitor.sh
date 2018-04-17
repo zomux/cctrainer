@@ -8,7 +8,7 @@ if [ "$cnt" -gt 1 ]; then
 fi
 if [ "$cnt" -lt 1 ]; then
   echo "run train"
-  ./train -c hparams2.txt &
+  ./train -c $1.txt &
   sleep 30s
 fi
 sleep 5s
